@@ -1,5 +1,10 @@
 # Changelog
 
+## [v1.96.2](https://github.com/k1LoW/tbls/compare/v1.96.1...v1.96.2) - 2026-10-13
+
+### New Features 🎉
+- feat(xlsx): link table names in the index sheet to their sheets by @ChrisJr404 in https://github.com/k1LoW/tbls/pull/857
+
 ## [v1.96.1](https://github.com/k1LoW/tbls/compare/v1.96.0...v1.96.1) - 2026-09-28
 
 ### Other Changes
